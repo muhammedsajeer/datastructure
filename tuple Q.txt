@@ -1,0 +1,33 @@
+1)Write a Python program to print a tuple with string formatting. 
+Sample tuple : (100, 200, 300)
+Output : This is a tuple (100, 200, 300)
+
+2)Write a Python program to find the repeated items of a tuple.
+
+3)Write a Python program to calculate the average value of the numbers in a given tuple of tuples.
+
+4)Modify the first item (22) of a list inside a following tuple to 222
+tuple1 = (11, [22, 33], 44, 55)
+
+Expected output:
+
+tuple1 = (11, [222, 33], 44, 55)
+
+5)Write a Python program to check if a specified element presents in a tuple of tuples
+
+6)Write a Python program convert a given string list to a tuple.
+
+7)Write a Python program to compute element-wise sum of given tuples.
+Original lists:
+(1, 2, 3, 4)
+(3, 5, 2, 1)
+(2, 2, 3, 1)
+Element-wise sum of the said tuples:
+(6, 9, 8, 6)
+
+
+8)Write a Python program to compute the sum of all the elements of each tuple stored inside a list of tuples.
+Original list of tuples:
+[(1, 2), (2, 3), (3, 4)]
+Sum of all the elements of each tuple stored inside the said list of tuples:
+[3, 5, 7]

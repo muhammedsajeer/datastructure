@@ -1,0 +1,50 @@
+            if condition
+
+1). Write a program to calculate the electricity bill (accept number of unit from user) according to the following criteria :
+
+             Unit                                                     Price  
+	First 100 units                                               no charge
+	Next 100 units                                              Rs 5 per unit
+	After 200 units                                             Rs 10 per unit
+
+   For example
+        
+       if input unit is 350 than total bill amount is Rs2000)
+
+2). Write a program to accept the cost price of a bike and display the road tax to be paid according to the following criteria :
+    
+        Cost price (in Rs)                                       Tax
+        > 100000                                                  15 %
+        > 50000 and <= 100000                          		  10%
+        <= 50000                                                  5%
+
+3). Write a program to check whether an years is leap year or not.
+
+4). Write a program to accept a number from 1 to 7 and display the name of the day like 1 for Sunday , 2 for Monday and so on.
+
+5). Write a program to accept a number from 1 to 12 and display name of the month and days in that month like 1 for January and number of days 31 and so on
+
+6). Accept the temperature in degree Celsius of water and check whether it is boiling or not (boiling point of water in 100 oC.
+
+7). A company decided to give bonus to employee according to following criteria:
+
+    	Time period of Service                Bonus
+
+    	   More than 10 years                 10%
+
+           >=6 and <=10                       8%
+
+           Less than 6 years                  5%
+
+    Ask user for their salary and years of service and print the net bonus amount.
+
+8). Write some code that find the Even values from dataset accepted [54,48,80] values
+
+    dataset = [44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58,78, 79, 80,34,34,34,45,45]
+
+
+9). Write a Python program to remove duplicates from a list.
+
+    number = [23,45,67,78,'Hello',34.34,34j,'Python',34,45.6,'ML',78,'Hello',34.34,34j]
+
+10). Write a Python program to find the factorial of a number

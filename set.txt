@@ -1,0 +1,39 @@
+SET
+
+1] Write a Python program to create a empty set.
+
+2] Write a Python program to iterate over sets. 
+
+3] Write a Python program to add member(s) in a set. 
+
+4] Write a Python program to create an intersection of sets.
+
+5] Write a Python program to create a union of sets. 
+
+6] Write a Python program to create set difference.
+
+7] Write a Python program to create a symmetric difference.
+
+8] Write a program with respect to Set
+
+9] Write a Python program to find maximum and the minimum value in a set.
+
+10] Write a Python program to find the length of a set. 
+
+11] Write a Python program to check if a given value is present in a set or not.
+
+12] Write a Python program to check if two given sets have no elements in common.
+
+13] Write a Python program to check if a given set is superset of itself and superset of another given set.
+
+14] Write a Python program to remove item(s) from set.
+
+15] Write a Python program to remove an item from a set if it is present in the set. 
+
+16] Write a Python program to check if a set is a subset of another set.
+
+
+
+
+
+

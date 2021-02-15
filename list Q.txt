@@ -1,0 +1,45 @@
+LIST
+
+1)Write a program to add only multiples of 3 from the given list.    
+
+        A = [12, 3, 4, 56, 7, 9, 49, 34, 6]
+
+2)Write a function Lavg(list) in python that takes list as argument and display the average of all 
+
+numbers in the list.
+
+3)Write a function double(list) which takes list as argument and multiply each and every 
+
+element of list by 2?                      
+
+4) Write the output of the following code:                                      
+
+k = “Subscribe to my blog”
+
+L = list(k)
+
+print(L[-1:-7:-3])
+print(L[:15:-1])
+print(L[1:len(k):5])
+print(L[2:-15])
+
+5)Write a program to accept 10 numbers from the user and            
+
+       add even numbers in a list named “evenlist” and odd
+
+      numbers in a list named “oddlist”
+
+6)Write a function evensum(list) in python that takes list of 10      
+       numbers as argument and display the sum of all even
+
+       numbers in the list.
+
+7)Write the code to convert the following string into List.              
+
+
+            “csiplearninghub”
+
+8)Write a program to separate the character and numeric value from a given list and store them in a separate list.
+
+    A = [1,’f’,2,’b’,3,4,’h’,j’,6,9,0,’k’]
+

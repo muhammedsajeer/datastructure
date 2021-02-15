@@ -1,0 +1,34 @@
+1). Given 2 strings, s1 and s2, create a new string by appending s2 in the middle of s1
+	s1 = "Ault"
+	s2 = "Kelly"
+
+2). Given 2 strings, s1, and s2 return a new string made of the first, middle and last char each input string
+    Given:
+	s1 = "America"
+	s2 = "Japan"
+
+    Expected Output:
+   	AJrpan
+
+3). Arrange string characters such that lowercase letters should come first Given an input string with the 
+    combination of the lower and upper case arrange characters in such a way that all lowercase letters should come first.
+
+	Given:
+
+		str1 = PyNaTive
+
+	Expected Output:
+
+		yaivePNT
+
+4). Count all lower case, upper case, digits, and special symbols from a given string 
+	Given:
+		str1 = "P@#yn26at^&i5ve"
+	
+	Expected Outcome:
+		
+		Total counts of chars, digits,and symbols 
+
+		Chars = 8 
+		Digits = 3 
+		Symbol = 4

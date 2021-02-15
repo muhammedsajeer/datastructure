@@ -1,0 +1,66 @@
+DICTIONARY:
+-----------
+1] Write a Python program to get the total length of all values of a given dictionary with string values.
+
+Original dictionary:
+{'1': 'Red', '2': 'Maroon', '3': 'Yellow', '4': 'Olive'}
+Total length of all values of the said dictionary with string values:
+
+
+
+2] Write a Python program to count the frequency in a given dictionary.
+
+Original Dictionary:
+{'a': 10, 'b': 10, 'c': 40, 'd': 20, 'e': 70, 'f': 80, 'g': 40, 'h': 20}
+
+Count the frequency of the said dictionary:
+Counter({10: 2, 40: 2, 20: 2, 70: 1, 80: 1})
+
+
+3] Write a Python program to find shortest list of values with the keys in a given dictionary.
+
+Original Dictionary: {'l': [10, 12], 'o': [10], 'v': [10, 20, 30, 40], 'e': [20], 'm': [10, 30, 50, 70], 'e': [80]}
+
+4] Write a Python program to filter even numbers from a given dictionary values.
+	4.1] Original Dictionary:
+	{'m': [1, 4, 6, 10], 'e': [1, 4, 12], 'n': [1, 3, 8]}
+
+	4.2] Original Dictionary:
+	{'V': [1, 3, 5], 'VI': [1, 5], 'VII': [2, 7, 9]}
+
+
+5] Write a Python program to convert a given dictionary into a list of lists.
+
+Original Dictionary:
+{1: 'red', 2: 'green', 3: 'black', 4: 'white', 5: 'black'}
+
+Convert the said dictionary into a list of lists:
+[[1, 'red'], [2, 'green'], [3, 'black'], [4, 'white'], [5, 'black']]
+
+
+
+6] Write a Python program to get the depth of a dictionary.
+note: take a sample dictionary on your own
+
+7]Write a Python program to find the length of a given dictionary values.
+
+Original Dictionary:
+{1: 'red', 2: 'green', 3: 'black', 4: 'white', 5: 'black'}
+Length of dictionary values:
+{'red': 3, 'green': 5, 'black': 5, 'white': 5}
+
+
+
+7] Write a Python program to convert string values of a given dictionary, into integer/float datatypes.
+
+Original list:
+[{'x': '10', 'y': '20', 'z': '30'}, {'p': '40', 'q': '50', 'r': '60'}]
+String values of a given dictionary, into integer types:
+[{'x': 10, 'y': 20, 'z': 30}, {'p': 40, 'q': 50, 'r': 60}]
+
+
+
+8] Write a Python program to filter the height and width of students, which are stored in a dictionary.
+
+Original Dictionary:
+{'shashank': (6.2, 70), 'sagar': (5.9, 65), 'akash': (6.0, 68), 'vikas': (5.8, 66)}
